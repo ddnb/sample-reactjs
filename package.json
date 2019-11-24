@@ -1,0 +1,9 @@
+{
+  "name": "sample-reactjs",
+  "version": "1.0.0",
+  "description": "Tutorial sample code for reactjs",
+  "main": "index.js",
+  "repository": "https://github.com/ddnb/sample-reactjs.git",
+  "author": "admin@diendannhatban.info",
+  "license": "MIT"
+}
