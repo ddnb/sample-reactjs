@@ -1,4 +1,5 @@
-import React from 'react'; // eslint-disable-line no-unused-vars
+// eslint-disable-next-line 
+import React from 'react';
 
 const SignIn = () => (
   'SignIn'
